@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Appsofa.com, an App collaborate platform.
 - 🌱 I’m currently learning Leetcode.
-- 👯 I’m looking to collaborate on developing the project Appsofa collaborate platform.
+- 👯 I’m looking to collaborate on developing the project App collaborate platform.
 - 🤔 I’m looking for help with 3rd party app integration.
 - 💬 Ask me about React, Django development.
 - 📫 How to reach me: jiangdmv@gmail.com
