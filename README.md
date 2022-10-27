@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Appsofa.com, an App collaborate platform.
+- 🔭 I’m currently working on Appsofa.com.
 - 🌱 I’m currently learning Leetcode.
-- 👯 I’m looking to collaborate on developing the project App collaborate platform.
-- 🤔 I’m looking for help with 3rd party app integration.
+- 👯 I’m looking to collaborate on developing the project Appsofa.com.
+- 🤔 I’m looking for help with project funding.
 - 💬 Ask me about React, Django development.
 - 📫 How to reach me: jiangdmv@gmail.com
 - 😄 Pronouns: 我
