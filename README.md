@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on Appsofa.com, an App collaborate platform.
 - 🌱 I’m currently learning Leetcode.
