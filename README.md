@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Appsofa.com.
+<!-- - 🔭 I’m currently working on Appsofa.com.
 - 🌱 I’m currently learning Leetcode.
 - 👯 I’m looking to collaborate on developing the project Appsofa.com.
 - 🤔 I’m looking for help with project funding.
@@ -8,7 +8,7 @@
 - 📫 How to reach me: jiangdmv@gmail.com
 - 😄 Pronouns: 我
 - ⚡ Fun fact: I like to be a Full stack software engineer instead of a researcher.
-- ✨ I practice Frontend skills on my Codesandbox: https://codesandbox.io/u/jiangdmv
+- ✨ I practice Frontend skills on my Codesandbox: https://codesandbox.io/u/jiangdmv -->
 
 <!--
 **jiangdmv/jiangdmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
